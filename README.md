@@ -1,14 +1,1 @@
-# Changelog:
-
-Version 1.0.0 (Beta):
-
-  - Inital Release
-
-
-
-
-
-     
-
-
-
+# Covid 19 Tracker in Python 3
