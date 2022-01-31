@@ -7,10 +7,7 @@ Version 1.0.0 (Beta):
 
 
 
-# Q & A:
 
-- When Out Of Beta Stages:
-     I Don't Know Yet
      
 
 
